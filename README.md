@@ -109,5 +109,3 @@ The project demonstrates the complete workflow from text preprocessing and Trans
 ## Author
 
 Ayush Singh
-
-GitHub: https://github.com/AYUSH18-DEV
